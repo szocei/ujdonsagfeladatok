@@ -47,7 +47,7 @@ HUformazo('2020-12-01',1234567,['első az ETO','második a DAC','harmadik a Barc
 //  egy új Array, Map, vagy Set object.
 console.log('-----------------3.feladat-----------');
 
-const ujset=new Set(abc);
+const ujset=new Set();
 ujset.add('a');
 ujset.add('b');
 
