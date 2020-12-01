@@ -57,7 +57,8 @@ console.log(myarr);
 };
 setToArray(ujset);
 
-const arr2=[1,2,3,4,5,6]
+
+const arr2=[1,2,3,4,5,6];
 function arrayToSet(arr){
     let set2=new Set(arr);
     console.log(set2);
